@@ -1,0 +1,21 @@
+nav{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h1{
+        font-size: 45px;
+        margin-left: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: italic;
+    }
+    .links{
+        a{
+            text-decoration: none;
+            color: blueviolet;
+            font-size: 30px;
+            margin: 35px;
+        }
+    }
+}
